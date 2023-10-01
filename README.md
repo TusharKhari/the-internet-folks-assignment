@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 
-[APP LINK]([https://docs.flutter.dev/getstarted/codelab(https://drive.google.com/drive/folders/1_rJW2PWsiwRFXDUdmMI0tpZbulCHJhWbusp=sharing))
+[APP LINK](https://drive.google.com/drive/folders/1_rJW2PWsiwRFXDUdmMI0tpZbulCHJhWb?usp=sharing)
 - 
 This project is a starting point for a Flutter application.
 
